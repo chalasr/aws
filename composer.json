@@ -58,5 +58,10 @@
             "AsyncAws\\Sqs\\Tests\\": "src/Service/Sqs/tests",
             "AsyncAws\\Symfony\\Bundle\\Tests\\": "src/Integration/Symfony/Bundle/tests"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
     }
 }
